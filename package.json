@@ -1,0 +1,22 @@
+{
+  "name": "test_publish",
+  "version": "1.0.0",
+  "description": "for testing publish on GIT npm and npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test_publish"
+  },
+  "keywords": [
+    "test",
+    "publish",
+    "git",
+    "npm",
+    "npx"
+  ],
+  "author": "Shehzad Anjum",
+  "license": "ISC"
+}
